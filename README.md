@@ -5,7 +5,7 @@ I specialize in Software Engineering, Data Science, AI & ML. I'm always eager to
 - 🔭 I’m currently working on [Adverse Drug Event Detection using NLP](https://github.com/5ar1m/adverse-drug-event-detection)
 - 🌱 I’m currently learning **Natural Language Processing**.
 - 💬 Ask me about anything related to my skills!
-- Email: mdsarim8214@gmail.com
+- Email: sarim.mnit@gmail.com
 - LinkedIn: [linkedin.com/in/mdsarim](https://www.linkedin.com/in/mdsarim)
 
 <br />
